@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00665d</color>
+    <color name="colorPrimaryDark">#00665d</color>
+    <color name="colorAccent">#060606</color>
+    <color name="black">#000</color>
+    <color name="white">#fff</color>
+    <color name="yellow">#d1d0cd</color>
+    <color name="teacher_name">#fca54e</color>
+    <color name="address">#17e284</color>
+    <color name="layout_color">#009688</color>
+    <color name="upper_text">#0096A6</color>
+    <color name="subject">#029688</color>
+    <color name="red">#f14a4a</color>
+</resources>
